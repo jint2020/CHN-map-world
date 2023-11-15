@@ -66,3 +66,6 @@ def map_world_api_no_key(address = None):
         # 打印错误信息
         print("Error in Map World API request. Status:", response.status_code)
         return None
+# if __name__ == "__main__":
+    # map_world_api(address = "广东省佛山市高明区",key="key")
+    # map_world_api_no_key(address = "广东省佛山市高明区")
