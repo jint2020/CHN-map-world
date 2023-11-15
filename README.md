@@ -2,7 +2,7 @@
 flask使用天地图官网服务创建本地api
 
 ## mac user
-`python3 -m venv .venv` /n/n
+`python3 -m venv .venv` /n
 `source .venv/bin/activate`\n
 `pip install -r requirements.txt`
 
