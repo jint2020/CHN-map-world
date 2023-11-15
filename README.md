@@ -2,13 +2,19 @@
 flask使用天地图官网服务创建本地api
 
 ## mac user
-`python3 -m venv .venv` /n
-`source .venv/bin/activate`\n
+`python3 -m venv .venv`  
+
+`source .venv/bin/activate`  
+
 `pip install -r requirements.txt`
 
 ## windows user
-`python3 -m venv .venv` or `python -m venv .venv` \n
-run in default terminal(new one) instead of Power shell \n
-`\Scripts\activate` or \n
-`\Scripts\activate.bat` or \n
+`python3 -m venv .venv` or `python -m venv .venv`  
+
+run in default terminal(new one) instead of Power shell  
+
+`\Scripts\activate` or  
+
+`\Scripts\activate.bat` or  
+
 `\Scripts\Activate.ps1`
