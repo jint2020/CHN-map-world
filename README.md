@@ -1,5 +1,5 @@
 # CHN-map-world
-flask使用天地图官网服务创建本地api
+Flask使用天地图官网服务创建本地api
 
 ## mac user
 `python3 -m venv .venv`  
@@ -17,4 +17,4 @@ run in default terminal(new one) instead of Power shell
 
 `\Scripts\activate.bat` or  
 
-`\Scripts\Activate.ps1`
+`\Scripts\Activate.ps1` 
